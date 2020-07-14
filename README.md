@@ -17,6 +17,8 @@ You can check out my website at https://xiomi.org (currently undergoing work so 
 ## ⚡ Other
 
 😄 Pronouns: He/Him
+🧱 GitLab: https://gitlab.com/vitineth
+👔 LinkedIn: https://www.linkedin.com/in/ryan-delaney-b9a24014b/
 
 <!--
 **Vitineth/vitineth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
