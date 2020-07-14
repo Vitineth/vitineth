@@ -1,4 +1,4 @@
-<img alt="Header picture - green to red gradient formed of randomly sized triangles with the text Ryan Delaney in the lower right corner" src="name.png" width="100%"/>
+<img alt="Header picture - green to red gradient formed of randomly sized triangles with the text Ryan Delaney in the lower right corner" src="https://github.com/Vitineth/vitineth/raw/master/name.png" width="100%"/>
 
 <!--
 **Vitineth/vitineth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
